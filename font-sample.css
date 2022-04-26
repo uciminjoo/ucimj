@@ -1,0 +1,26 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	padding: 24px;
+}
+
+h1 {
+	font-family: 'Inter', sans-serif;
+}
+
+h3 {
+	font-family: 'Libre Bodoni', serif;
+}
+
+p{
+	font-family: 'Roboto', sans-serif;
+	max-width: 500px;
+	min-width: 244px;
+}
